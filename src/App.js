@@ -1,6 +1,5 @@
-//import logo from './logo.svg';import './App.css';
-
-import style from './app.css'
+//import logo from './logo.svg';
+import './App.css';
 
 function App() {
   const bio = {
