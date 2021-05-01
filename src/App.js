@@ -5,9 +5,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          //Shogo Okuda<br>
-          <a href="https://www.linkedin.com/in/shogo-okuda-42b7389/">LinkedIn</a><br>
-          <a href="https://github.com/shougees">Github</a><br>
+          Shogo Okuda
+          <a href="https://www.linkedin.com/in/shogo-okuda-42b7389/">LinkedIn</a>
+          <a href="https://github.com/shougees">Github</a>
         </p>
       </header>
     </div>
