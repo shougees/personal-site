@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Shogo Okuda<br>
+          //Shogo Okuda<br>
           <a href="https://www.linkedin.com/in/shogo-okuda-42b7389/">LinkedIn</a><br>
           <a href="https://github.com/shougees">Github</a><br>
         </p>
