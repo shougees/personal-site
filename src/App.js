@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div>
+        <div id="list">
           {Object.keys(bio).map(key=> (
             <p>{bio[key]}</p>
           ))}
