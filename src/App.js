@@ -1,5 +1,7 @@
 //import logo from './logo.svg';import './App.css';
 
+import style from './app.css'
+
 function App() {
   const bio = {
     name: 'Shogo Okuda',
